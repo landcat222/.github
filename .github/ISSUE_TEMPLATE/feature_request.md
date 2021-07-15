@@ -7,8 +7,10 @@ assignees: ''
 
 ---
 
-# Suggestion
+# 提案
 
-# Reason
+# 理由
 
-# Solution
+# 方法
+
+# ファイル
